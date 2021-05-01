@@ -1,0 +1,30 @@
+#game div {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	display: inline-flex;
+	text-align: center;
+	border-radius: 50%;
+	background-color: darkcyan;
+}
+
+body {
+	font-family: 'Monoton', cursive;
+	color: darkcyan;
+	display: flex;
+	text-align: center;
+	padding: 25px;
+	background-image: url("https://images.hdqwalls.com/wallpapers/retro-pyramid-4k-lj.jpg");
+	background-position: auto;
+	background-repeat: right;
+	background-size: cover;
+}
+
+#startBtn {
+	background: none;
+	font-family: 'Monoton', cursive;
+	border-radius: 12px;
+	font-size: 16px;
+	margin: 4px 2px;
+}
